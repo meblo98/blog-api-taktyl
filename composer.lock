@@ -1520,8 +1520,6 @@
             "time": "2025-01-27T14:24:01+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "lcobucci/clock",
             "version": "2.3.0",
             "source": {
@@ -1662,7 +1660,6 @@
             "time": "2021-09-28T19:18:28+00:00"
         },
         {
->>>>>>> 999611a (reconfiguration du git)
             "name": "league/commonmark",
             "version": "2.6.1",
             "source": {
